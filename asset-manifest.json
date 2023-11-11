@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/KoreanCryptocurrencyExchange/static/js/main.9d8f9102.js",
+    "static/js/787.778e45d1.chunk.js": "/KoreanCryptocurrencyExchange/static/js/787.778e45d1.chunk.js",
+    "index.html": "/KoreanCryptocurrencyExchange/index.html",
+    "main.9d8f9102.js.map": "/KoreanCryptocurrencyExchange/static/js/main.9d8f9102.js.map",
+    "787.778e45d1.chunk.js.map": "/KoreanCryptocurrencyExchange/static/js/787.778e45d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9d8f9102.js"
+  ]
+}
